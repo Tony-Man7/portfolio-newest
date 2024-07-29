@@ -10,16 +10,16 @@ export default function Services() {
   //];
 
   const toolBoxItems = [
-    { name: "HTML", image: "src/assets/icons/html.png" },
-    { name: "CSS", image: "src/assets/icons/css.png" },
-    { name: "JavaScript", image: "src/assets/icons/javascript.png" },
-    { name: "PHP", image: "src/assets/icons/php.png" },
-    { name: "TailwindCSS", image: "src/assets/icons/tailwindcss.png" },
-    { name: "Bootsraps", image: "src/assets/icons/bootstrap.png" },
-    { name: "ReactJS", image: "src/assets/icons/reactjs.png" },
-    { name: "NodeJS", image: "src/assets/icons/nodejs.png" },
-    { name: "ExpressJS", image: "src/assets/icons/express.png" },
-    { name: "MongoDB", image: "src/assets/icons/mongodb.png" }
+    { name: "HTML", image: "src/assets/images/html.png" },
+    { name: "CSS", image: "src/assets/images/css.png" },
+    { name: "JavaScript", image: "src/assets/images/javascript.png" },
+    { name: "PHP", image: "src/assets/images/php.png" },
+    { name: "TailwindCSS", image: "src/assets/images/tailwindcss.png" },
+    { name: "Bootsraps", image: "src/assets/images/bootstrap.png" },
+    { name: "ReactJS", image: "src/assets/images/reactjs.png" },
+    { name: "NodeJS", image: "src/assets/images/nodejs.png" },
+    { name: "ExpressJS", image: "src/assets/images/express.png" },
+    { name: "MongoDB", image: "src/assets/images/mongodb.png" }
   ];
   
   return (
