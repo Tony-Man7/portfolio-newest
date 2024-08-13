@@ -176,7 +176,7 @@ export default function Contact() {
           </div>
           <div className="space-y-3 ">
             <h4 className="text-body-1 font-semibold 2xl:text-4xl">
-              My Digital Spaces
+              Find Me Online
             </h4>
             <div className="space-y-3 text-body-2 2xl:text-3xl">
               <a
