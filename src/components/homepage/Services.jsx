@@ -12,6 +12,9 @@ import reactjsImage from "../../assets/images/reactjs.png";
 import nodejsImage from "../../assets/images/nodejs.png";
 import expressImage from "../../assets/images/express.png";
 import mongodbImage from "../../assets/images/mongodb.png";
+import vueImage from "../../assets/images/vue.png";
+import laravelImage from "../../assets/images/laravel.png";
+
 
 export default function Services() {
   const toolBoxItems = [
@@ -24,7 +27,10 @@ export default function Services() {
     { name: "ReactJS", image: reactjsImage },
     { name: "NodeJS", image: nodejsImage },
     { name: "ExpressJS", image: expressImage },
-    { name: "MongoDB", image: mongodbImage }
+    { name: "MongoDB", image: mongodbImage },
+    { name: "Laravel", image: vueImage },
+    { name: "VueJS", image: laravelImage },
+
   ];
 
   return (
