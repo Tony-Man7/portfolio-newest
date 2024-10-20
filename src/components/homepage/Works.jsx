@@ -15,6 +15,7 @@ import books from "/src/assets/images/learnpathtowealth.png";
 import ecom1 from "/src/assets/images/fashionforwardclothingline.com.png";
 import ecom2 from "/src/assets/images/luxurioushairtreatmentonline.com.png";
 import dash from "/src/assets/images/dashboard.png";
+import employee_system from "/src/assets/images/employee-system.png";
 import Projects from "../ui/Projects";
 import Heading from "../ui/Heading";
 
@@ -33,6 +34,15 @@ export default function Works({ forwardedRef }) {
 
 
   const projects = [
+    {
+      link: "https://github.com/Tony-Man7/CRUD-employee-system-management",
+      img: employee_system,
+      alt: "System for Managing Employee",
+      name: "System for Managing Employee",
+      type: "Frontend and Backend Development",
+      year: "2024",
+      tools: "TailwindCSS • VueJS • Laravel • Jetstream • InertiaJS • MySQL",
+    },
     {
       link: "https://github.com/Tony-Man7/CRUD-admin-panel-with-input-data-product-to-mongoDB",
       img: dash,
