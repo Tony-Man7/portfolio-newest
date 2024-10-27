@@ -60,17 +60,18 @@ export default function About() {
               ref={body}
               className=" translate-y-10 text-body-1 opacity-0 2xl:text-4xl"
             >
-              Passionate Web Developer with expertise in HTML, CSS, JavaScript,
-              and PHP. I’ve built responsive, user-friendly websites and
-              expanded into backend development for sales funnels, optimizing
-              processes for better user experiences.
+              Passionate Web Developer skilled in crafting responsive,
+              user-centric applications and optimized backend solutions.
+              Experienced in developing optimized sales funnels to enhance user
+              experiences and boost conversion rates.
               <br></br>
-              <br></br>I also developed a full-stack CRUD web app using Laravel
-              and Vue.js to manage employees, service records, and departments,
-              focusing on maintainable code, relationships, authorization and
-              responsive UI design.
+              <br></br>I specialize in full-stack development with Laravel and
+              Vue.js, having built dynamic CRUD systems for managing complex
+              data, including employee records and departmental structures. My
+              focus is on writing scalable code, establishing robust data
+              relationships, and creating secure, seamless user experiences.
               <br></br>
-              <br></br>I am committed to continuous learning and growth in web
+              <br></br>Dedicated to continuous growth and learning in web
               development.
             </p>
           </div>
