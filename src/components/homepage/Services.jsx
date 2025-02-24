@@ -14,6 +14,9 @@ import expressImage from "../../assets/images/express.png";
 import mongodbImage from "../../assets/images/mongodb.png";
 import vueImage from "../../assets/images/vue.png";
 import laravelImage from "../../assets/images/laravel.png";
+import wordpressImage from "../../assets/images/wordpress.png";
+import mysqlImage from "../../assets/images/mysql.png";
+
 
 
 export default function Services() {
@@ -30,6 +33,9 @@ export default function Services() {
     { name: "MongoDB", image: mongodbImage },
     { name: "Laravel", image: vueImage },
     { name: "VueJS", image: laravelImage },
+    { name: "WordPress", image: wordpressImage },
+    { name: "MySQL", image: mysqlImage },
+
 
   ];
 
